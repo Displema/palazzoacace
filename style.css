@@ -16,3 +16,9 @@ height: 10vh;
 display: flex;
 background-color: #F1F;
 }
+
+ul.navbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

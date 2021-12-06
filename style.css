@@ -6,4 +6,11 @@
 
 body {
     background-image: url('Screenshot_20211206-123929.png');
+    display: grid;
+    grid-template-rows: 10vh 90vh;
+}
+
+div.list {
+width: 100vw;
+height: 10vh;
 }
